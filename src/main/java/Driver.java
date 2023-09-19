@@ -1,5 +1,3 @@
-import java.util.Calendar;
-
 /**
  * Driver class that provides a main method which creates a Singer object and
  * prints its details. As this class contains only static methods, it is not
