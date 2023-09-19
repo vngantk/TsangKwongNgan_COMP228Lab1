@@ -1,3 +1,7 @@
+/**
+ * Singer class which represents a singer. It has these attributes:
+ * id, name, address, dateOfBirth, albumsPublished.
+ */
 public class Singer {
     private int id;
     private String name;
